@@ -1,0 +1,217 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo{
+    font-size: 45px;
+    font-family: poppins;
+    text-align: left;
+    color: rgb(31,62,114);
+    font-weight: bolder;
+    line-height : 40px;
+    margin-left: 100px;
+}
+
+.subtitulo{
+    font-family: Montserrat;
+    color: rgb(109 123 147);
+    font-size: 20px;
+    line-height : 20px;
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height : 30px;
+}
+
+.titulo2{
+    font-size: 30px;
+    font-family: poppins;
+    text-align: left;
+    margin-left: 80px;
+    color: rgb(31,62,114);
+    font-weight: bolder;
+    line-height : 40px;
+}
+
+.subtitulo2{
+    font-family: Montserrat;
+    color: rgb(109 123 147);
+    font-size: 20px;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 80px;
+    margin-right: 70px;
+    line-height : 30px;
+}
+
+.titulo3{
+    font-size: 33px;
+    font-family: poppins;
+    text-align: left;
+    margin-top: 120px;
+    margin-left: -50px;
+    color: rgb(31,62,114);
+    font-weight: bolder;
+    line-height : 40px;
+}
+
+.subtitulo3{
+    font-family: Montserrat;
+    color: rgb(109 123 147);
+    font-size: 20px;
+    line-height: 20px;
+    text-align: left;
+    margin-left: -50px;
+    margin-right: 70px;
+    line-height : 30px;
+}
+
+.titulo4{
+    font-size: 17px;
+    font-family: poppins;
+    text-align: left;
+    margin-top: 15px;
+    margin-left: -25px;
+    color: rgb(31,62,114);
+}
+
+.subtitulo4{
+    font-family: Montserrat;
+    color: rgb(109 123 147);
+    font-size: 12px;
+    line-height: 20px;
+    text-align: left;
+    margin-left: -1px;
+    margin-right: 70px;
+    line-height : 20px;
+
+}
+
+.titulo5{
+    font-size: 35px;
+    font-family: poppins;
+    text-align: left;
+    margin-top: 120px;
+    margin-left: 50px;
+    color: rgb(31,62,114);
+    font-weight: bolder;
+    line-height : 40px;
+}
+
+.subtitulo5{
+    font-family: Montserrat;
+    color: rgb(109 123 147);
+    font-size: 20px;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 70px;
+    line-height : 30px;
+    text-align: justify;
+}
+
+.shield{
+    text-align: left;
+    color: rgba(31,62,114);
+    margin-left: 100px;
+
+}
+
+.navbar-brand{
+    font-family: Montserrat;
+    color: rgb(47 80 205);
+    font-size: 25px;
+}
+
+.nav-link{
+    font-family: Montserrat;
+    color: rgb(109 123 147);
+    font-size: 18px;
+}
+
+.dropdown-item{
+    font-family: Montserrat;
+    color: rgb(109 123 147);
+    font-size: 16px;
+}
+
+.schedule{
+        font-family: Montserrat;
+        font-size: 20px;
+        text-align: left;
+        color: rgb(31,62,114);
+        margin-left: 67px;
+        font-weight: bolder;
+}
+
+.card2{
+    font-family: Montserrat;
+    height:285px;
+}
+
+.card{
+    margin-left: 100px;
+    font-family: Montserrat;
+    height:285px;
+}
+
+.card-title{
+    font-family: Montserrat;
+    margin-bottom: 20px;
+    color: rgb(31 62 114);
+}
+
+.card-title3{
+    font-family: Montserrat;
+    margin-left: 60px;
+    margin-top: -65px;
+    color: rgb(31 62 114);
+}
+
+.card-text3{
+    color: rgb(109 123 147);
+    font-family: Montserrat;
+    text-align: left;
+    font-size: 14px;
+    margin-left: 60px;
+}
+
+.card-text{
+    color: rgb(109 123 147);
+    font-family: Montserrat;
+    text-align: left;
+}
+
+.card-text2{
+    color: rgb(109 123 147);
+    font-family: Montserrat;
+    text-align: left;
+    font-size: 14px;
+}
+
+.textfoot{
+    color: rgb(109 123 147);
+    font-family: Montserrat;
+    font-size: 14px;
+    text-align: justify;
+    margin-right: 80px;
+    text-transform: lowercase;
+    font-weight: 400;
+    line-height : 30px;
+}
+
+.textcopy2{
+    color: rgb(109 123 147);
+    font-family: Montserrat;
+    margin-left: 250px;
+}
+.textcopy3{
+    color: rgb(109 123 147);
+    font-family: Montserrat;
+    margin-left: 20px;
+}
+
+.navfff{
+    margin-left: 20px;
+}
+
